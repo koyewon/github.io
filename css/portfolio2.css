@@ -1,0 +1,25 @@
+body {
+    margin:0; padding-bottom:40px;
+    background: #f7f9fc;
+    padding:40px;
+}
+div {
+    box-sizing: border-box;
+}
+li {
+    list-style: none;;
+    margin-bottom: 8px;
+}
+.pd24 {padding: 24px;}
+.pd40 {padding: 40px;}
+
+.ft-sk {color: #6fbaf8 !important;}
+.bg-sk {background: #6fbaf8; border: #6fbaf8;}
+
+.profile.card .card-body {
+    font-size:20px;
+}
+
+.pseudo {
+    
+}

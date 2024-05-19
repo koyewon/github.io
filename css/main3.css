@@ -1,0 +1,26 @@
+div {
+    box-sizing: border-box;
+}
+
+.flex-item {
+    
+    padding:24px;
+    /* margin:5px; */
+
+    color:#fff;
+}
+.flex-container {
+    background: orange;
+    height:100px;
+
+    display:flex;
+    align-items: center;
+
+}
+.flex2 {
+    flex-grow: 2;
+}
+
+.flex-item:nth-child(3) {
+    text-align:right;
+}
